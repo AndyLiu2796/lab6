@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 Changes in new-branch
+
